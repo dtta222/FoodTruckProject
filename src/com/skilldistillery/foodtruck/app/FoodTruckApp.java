@@ -13,8 +13,6 @@
 //************************************************************************
 package com.skilldistillery.foodtruck.app;
 import com.skilldistillery.foodtruck.entities.FoodTruck;
-//package com.skilldistillery.foodtruck.entities;
-
 
 import java.util.Scanner;
 public class FoodTruckApp {
