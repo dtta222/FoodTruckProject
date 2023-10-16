@@ -29,7 +29,7 @@ public class FoodTruckApp {
 	    // Input loop for adding food trucks
 	    while (count < 5) {
 	        foodRating = -1;
-	        System.out.print("\nEnter the name of food truck #" + (count + 1) + ": ");
+	        System.out.print("\nEnter the name of food truck #" + (count + 1) + "(or 'quit' to stop): ");
 	        foodName = scan.nextLine();
 	
 	        if (foodName.equalsIgnoreCase("quit")) {
